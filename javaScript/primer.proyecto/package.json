@@ -1,0 +1,19 @@
+{
+  "name": "holamundo",
+  "version": "1.0.0",
+  "description": "Primer proyecto en OBC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/4lv4r0TPM/Comenzando.Javascript.git"
+  },
+  "author": "4lv4r0TPM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/4lv4r0TPM/Comenzando.Javascript/issues"
+  },
+  "homepage": "https://github.com/4lv4r0TPM/Comenzando.Javascript#readme"
+}
