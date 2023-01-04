@@ -1,0 +1,10 @@
+let nombre = "Alvaro Rodrigo ";
+let apellido = " Perez-Reyes";
+let estudiante = nombre.concat(apellido);
+let estudianteMayus = estudiante.toUpperCase();
+let estudianteMinus = estudiante.toLowerCase();
+let longEstudiante = estudiante.length;
+let primeraLetraNombre = nombre[0];
+let ultimaLetraApellido = apellido[11]
+let estudianteTodoJunto = estudiante.trim();
+let nombreEnEstudiante = estudiante.includes(nombre)
